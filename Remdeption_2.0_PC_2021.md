@@ -35,4 +35,4 @@ Everything else from the previous build pretty much came over. I still have the 
 
 Sadly, the i9 really had no overclock potential whatsoever; it seems almost unstable even at its turbo speeds. It was a disappointment in that regard, but it's extremely functional, and I am still running this CPU today.
 
-![redemption2](./redemption2.jpg)
+![redemption2](./Redemption2.jpg)
