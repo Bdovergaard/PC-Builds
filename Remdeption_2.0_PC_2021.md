@@ -34,3 +34,5 @@ Due to the "second great GPU shortage," I once again was subjected to the huntin
 Everything else from the previous build pretty much came over. I still have the 4000MHz RAM from before, but I was sick of dealing with it, so I just bought the cheapest RAM Amazon had to offer and went on my way.
 
 Sadly, the i9 really had no overclock potential whatsoever; it seems almost unstable even at its turbo speeds. It was a disappointment in that regard, but it's extremely functional, and I am still running this CPU today.
+
+![redemption2](./redemption2.jpg)
