@@ -39,3 +39,4 @@ Surprisingly it never overheated the oil; if I left it at idle it was fine, and 
 
 It unceremoniously perished during an earthquake when a sword mounted on the wall fell from an unimaginable distance and managed to crack the glass.
 
+![Build Photo](./Mineraloilpc.jpg)
