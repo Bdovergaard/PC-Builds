@@ -1,4 +1,4 @@
-## Project: Barder King - Free Real Estate PC (2020)
+## Project: Barter King - Free Real Estate PC (2020)
 
 **Goal:** Use free parts to set up a gaming PC for the roomate.
 
@@ -28,4 +28,4 @@ One of the more straight forward and simple builds in the list.
 I actually got this PC back this year after they used it for the last 6 years, I guess they dropped a big gulp in it and decided to upgrade. 
 
 
-![redemption2](./Redemption2.jpg)
+![Barter_king_2020](./Barter_king_2020.jpg)
